@@ -1,6 +1,9 @@
 # ngx_lua_waf_lite
 
+[中文文档](https://github.com/whsir/ngx_lua_waf_lite/blob/main/README.cn.md)
+
 Protect against CC attacks and limit request frequency.
+
 
 ## Usage
 
